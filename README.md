@@ -3,9 +3,6 @@ nestex-data
 
 metadata and images of non-permanent exposition in Slovak National Gallery
 
-* tiff format images package (1.84 gb):
-http://isg.cedvu.sk/share/nestex-hires.zip
-
 ##other resources
 
 * high resolution images package: [nestex-hires.zip] (http://isg.cedvu.sk/share/nestex-hires.zip) [1.84 GB]
